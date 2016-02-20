@@ -1,6 +1,6 @@
 name: STEPHANO BUTTO
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.89499
 typography_spectrum: 0.9131
 title: Architecture
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5a4e4e'
     - '#99b4d2'
     - '#ddd3ca'
-  brandStrength: 0.5625
-  lightness: 0.5899966959841549
-  saturation: 0.1522769290022552
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
