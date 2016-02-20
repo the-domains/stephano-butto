@@ -1,29 +1,41 @@
-name: STEPHANO BUTTO
-favicon: null
-layout_spectrum: 0.75377
-typography_spectrum: 0.9131
 title: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4375
+  brandStrength: 0.8289474
+  lightness: 0.5256892
+  brandColors:
+    - '#020305'
+    - '#99B3D1'
+    - '#D8CEC6'
+    - '#6F6563'
+    - '#FFFBF9'
+  rhythmicContrast: 0.570802
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: STEPHANO BUTTO
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000002'
-    - '#fffbf8'
-    - '#5a4e4e'
-    - '#99b4d2'
-    - '#ddd3ca'
-  brandStrength: 1
-  lightness: 0.6875
-  saturation: 0.4375
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.8483709
+layout_spectrum: 0.4617794
