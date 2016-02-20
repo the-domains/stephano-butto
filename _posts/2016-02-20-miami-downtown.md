@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T01:08:20.165Z'
-dateModified: '2016-02-20T01:07:17.152Z'
+datePublished: '2016-02-20T01:25:38.779Z'
+dateModified: '2016-02-20T01:25:01.490Z'
 title: Miami Downtown
 author: []
+sourcePath: _posts/2016-02-20-miami-downtown.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-miami-downtown.md
-published: true
 url: miami-downtown/index.html
 _type: Article
 
 ---
-# Miami Downtown
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff41fa72-b2c8-4709-9f7d-16bcf5d98287.jpg)
+
+# Miami Downtown
 
 Massive development project in the heart of Miami.
