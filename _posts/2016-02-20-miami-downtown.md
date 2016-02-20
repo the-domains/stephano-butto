@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T01:46:41.172Z'
-dateModified: '2016-02-20T01:44:35.056Z'
+datePublished: '2016-02-20T01:51:23.744Z'
+dateModified: '2016-02-20T01:48:11.450Z'
 title: Miami Downtown
 author: []
 sourcePath: _posts/2016-02-20-miami-downtown.md
