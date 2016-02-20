@@ -1,5 +1,7 @@
-title: null
-purpose: []
+name: STEPHANO BUTTO
+favicon: null
+layout_spectrum: 0.4617794
+typography_spectrum: 0.8483709
 collections:
   - index:
       path: /
@@ -12,30 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4375
-  brandStrength: 0.8289474
-  lightness: 0.5256892
   brandColors:
     - '#020305'
     - '#99B3D1'
     - '#D8CEC6'
     - '#6F6563'
     - '#FFFBF9'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.625
   rhythmicContrast: 0.570802
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: STEPHANO BUTTO
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8483709
-layout_spectrum: 0.4617794
+purpose: []
