@@ -1,6 +1,6 @@
 name: STEPHANO BUTTO
 favicon: null
-layout_spectrum: 0.25589
+layout_spectrum: 1
 typography_spectrum: 0.9131
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5350808128714561
+    - '#ffffff'
+    - '#6d6f6e'
+    - '#cccecb'
+    - '#24272c'
+    - '#fdbc56'
+  brandStrength: 0.5625
   lightness: 0.5899966959841549
   saturation: 0.1522769290022552
-  rhythmicContrast: 0.5477306249085814
+  rhythmicContrast: 0.5
 purpose: []
