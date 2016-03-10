@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "DOC DESIGN\_"
-datePublished: '2016-03-10T20:02:07.619Z'
-dateModified: '2016-03-10T20:01:57.121Z'
+datePublished: '2016-03-10T21:38:14.809Z'
+dateModified: '2016-03-10T21:31:39.817Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-doc-design.md
