@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "jhszd dfkjdsajkdsa fassafbfaejk fuiqeniofqk .jfq qeriunf rfreoifq nvroiernfeq\_"
-datePublished: '2016-03-10T20:58:37.841Z'
-dateModified: '2016-03-10T20:04:35.622Z'
+datePublished: '2016-03-10T21:02:53.751Z'
+dateModified: '2016-03-10T21:02:00.392Z'
 title: jhfgjhfhjhgdy dsakljadfsb sadkljdsavb dljkdsagb dsujfdjuh b
 author: []
 sourcePath: _posts/2016-03-08-stephano-butto.md
@@ -22,7 +22,7 @@ url: stephano-butto/index.html
 _type: Article
 
 ---
-![The sky is your limit at QuatroTerre ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67d6bc82b38bf4784a4ed78170631d10a524b600.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67d6bc82b38bf4784a4ed78170631d10a524b600.jpg)
 
 jhszd dfkjdsajkdsa fassafbfaejk fuiqeniofqk .jfq qeriunf rfreoifq nvroiernfeq ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6ac3bd958f5717a132777d7e8de1efe9a717cb.jpg)
 
