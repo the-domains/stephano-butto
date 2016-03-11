@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "DOC DESIGN\_"
-datePublished: '2016-03-10T21:38:14.809Z'
-dateModified: '2016-03-10T21:31:39.817Z'
+description: "OC DESIGN\_"
+datePublished: '2016-03-11T16:13:03.160Z'
+dateModified: '2016-03-11T16:12:38.428Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-doc-design.md
@@ -22,5 +22,4 @@ url: doc-design/index.html
 _type: Article
 
 ---
-DOC DESIGN ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85d80c28-0943-4c2d-9c8c-acc6381b4e9e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51ad02c0-782b-4a50-a2ec-388dc7ddb5fa.jpg)
+OC DESIGN ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5c5d4c8073a4218c35b6923d19d366c8660bdf2.jpg)
