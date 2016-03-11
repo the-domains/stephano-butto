@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The project sits in one of Miami's most privileged sites.\_"
-datePublished: '2016-03-10T21:37:52.377Z'
-dateModified: '2016-03-10T21:31:58.450Z'
+datePublished: '2016-03-11T16:08:46.795Z'
+dateModified: '2016-03-11T16:08:45.023Z'
 title: True urban connections that bring livelihood to a city
 author: []
 sourcePath: _posts/2016-03-08-stephano-butto.md
@@ -22,8 +22,9 @@ url: stephano-butto/index.html
 _type: Article
 
 ---
-MIAMI'S QUATROTERRE
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67d6bc82b38bf4784a4ed78170631d10a524b600.jpg)
+
+MIAMI'S QUATROTERRE
 
 The project sits in one of Miami's most privileged sites. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6ac3bd958f5717a132777d7e8de1efe9a717cb.jpg)
 
