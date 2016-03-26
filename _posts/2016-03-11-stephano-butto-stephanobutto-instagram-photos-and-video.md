@@ -1,12 +1,16 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/stephanobutto/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-26T04:01:17.542Z'
+dateModified: '2016-03-26T04:00:14.712Z'
 author: []
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://user?username=stephanobutto'
     type: ios
@@ -22,15 +26,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/stephanobutto/'
 title: 'Stephano Buttò (@stephanobutto) * Instagram photos and videos'
-datePublished: '2016-03-11T16:11:22.938Z'
-dateModified: '2016-03-11T16:10:07.178Z'
 sourcePath: _posts/2016-03-11-stephano-butto-stephanobutto-instagram-photos-and-video.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
