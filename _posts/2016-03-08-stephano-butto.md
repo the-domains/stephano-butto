@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The project sits in one of Miami's most privileged sites.\_"
-datePublished: '2016-03-26T04:01:59.113Z'
-dateModified: '2016-03-26T04:01:57.106Z'
-title: True urban connections that bring livelihood to a city
+datePublished: '2016-03-26T04:04:35.825Z'
+dateModified: '2016-03-26T04:04:30.902Z'
+title: "True urban connections that bring livelihood to a city\_"
 author: []
 sourcePath: _posts/2016-03-08-stephano-butto.md
 published: true
@@ -25,13 +25,9 @@ _type: Article
 ![The sky is your limit at QuatroTerre ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67d6bc82b38bf4784a4ed78170631d10a524b600.jpg)
 
 MIAMI'S QUATROTERRE
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6ac3bd958f5717a132777d7e8de1efe9a717cb.jpg)
 
-The project sits in one of Miami's most privileged sites. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6ac3bd958f5717a132777d7e8de1efe9a717cb.jpg)
-
-# True urban connections that bring livelihood to a city
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20ce23dbf20f9c60af73221cfcc0cff602d5cb8d.jpg)
-
-## An urban oasis within a cityscape ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/17365ee3e3d68c4061ce586f14256b669ca71e60.jpg)
+# True urban connections that bring livelihood to a city ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/17365ee3e3d68c4061ce586f14256b669ca71e60.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3eb624e3e63793ddeba530beb74722a5ab42ba0.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/47b92b8c7c4dc296d71b7a43c18e4611f14c251c.jpg)
 ![Vertical Heaven in the middle of the urban core of Miami](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d779eed21e69abbab6acd149fd485adead97be1f.jpg)
